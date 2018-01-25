@@ -946,7 +946,7 @@ var ReactDOM = __webpack_require__(18);
 ReactDOM.render(React.createElement(
     'h1',
     null,
-    'Hello World...'
+    'Hello World!!!'
 ), document.getElementById('example'));
 
 // console.log(111)
